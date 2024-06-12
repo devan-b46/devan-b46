@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-Hi there! 👋 I'm Devanshu Bharti, a passionate data scientist with a knack for turning raw data into actionable insights. 
+Hey! 👋 I'm Devanshu Bharti, a passionate data scientist with a knack for turning raw data into actionable insights. 
 Whether it's wrangling messy datasets, creating visualizations, or building predictive models, I thrive on solving real-world problems using data-driven approaches.
 
 This repository showcases my work on various data analysis projects. Feel free to explore my code and reach out if you have any questions!
