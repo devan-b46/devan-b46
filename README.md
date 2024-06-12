@@ -23,6 +23,7 @@ Whether it's wrangling messy datasets, creating visualizations, or building pred
 
 This repository showcases my work on various data analysis projects. Feel free to explore my code and reach out if you have any questions!
 
+---
 ## What I Do
 
 - **Data Exploration and Cleaning**: I love diving into datasets, identifying patterns, and cleaning up inconsistencies. My motto: "Garbage in, garbage out!"
@@ -55,11 +56,12 @@ This repository showcases my work on various data analysis projects. Feel free t
   | ---- | ---- | ---- | 
   | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width=55 height=55 /> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" width=55 height=55 /> | <img src=images/azure.png title="Azure Data Studio" width=75 height=55 /> | 
 
+---
 ## Let's Connect!
 
 Feel free to explore my GitHub repositories and connect with me on LinkedIn. I'm always up for discussing data-related projects and sharing insights. 📊🔍
 
-GitHub
-LinkedIn
+## [LinkedIn Profile](https://www.linkedin.com/in/devanshu-bharti/)
 
+---
 Looking forward to learn more with fellow data enthusiasts! 😊
