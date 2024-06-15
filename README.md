@@ -63,5 +63,25 @@ Feel free to explore my GitHub repositories and connect with me on LinkedIn. I'm
 
 ## [LinkedIn Profile](https://www.linkedin.com/in/devanshu-bharti/)
 
----
 Looking forward to learn more with fellow data enthusiasts! 😊
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=devan-b46&icon=9&color=1)](https://visitcount.itsvg.in)
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=devan-b46&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devan-b46&theme=solarized-light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devan-b46&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=devan-b46&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+#### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+#### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devan-b46&limit=5&theme=solarized-light&combine_all_yearly_contributions=true)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
