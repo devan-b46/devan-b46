@@ -23,6 +23,8 @@ Whether it's wrangling messy datasets, creating visualizations, or building pred
 
 This repository showcases my work on various data analysis projects. Feel free to explore my code and reach out if you have any questions!
 
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width=55 height=55 /> -->
+
 ---
 ## What I Do
 
