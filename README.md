@@ -23,11 +23,6 @@ Whether it's wrangling messy datasets, creating visualizations, or building pred
 
 This repository showcases my work on various data analysis projects. Feel free to explore my code and reach out if you have any questions!
 
-**EICT | IIT Guwahati Certified Data Analyst! 😏**
-
-
-<img src=images/certificate.jpg title="IIT Guwahati Certificate" width=500 />
-
 ---
 ## What I Do
 
@@ -60,6 +55,13 @@ This repository showcases my work on various data analysis projects. Feel free t
   | Jupyter Notebook | VS Code | Azure Data Studio | 
   | ---- | ---- | ---- | 
   | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width=55 height=55 /> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" width=55 height=55 /> | <img src=images/azure.png title="Azure Data Studio" width=75 height=55 /> | 
+
+---
+
+**EICT | IIT Guwahati Certified Data Analyst! 😏**
+
+
+<img src=images/certificate.jpg title="IIT Guwahati Certificate" width=500 />
 
 ---
 ## Let's Connect!
