@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-Hey! 👋 I'm Devanshu Bharti, a passionate data scientist with a knack for turning raw data into actionable insights. 
+Hey! 👋 I'm Devanshu Bharti, a passionate Data Scientist with a knack for turning raw data into actionable insights. 
 Whether it's wrangling messy datasets, creating visualizations, or building predictive models, I thrive on solving real-world problems using data-driven approaches.
 
 This repository showcases my work on various data analysis projects. Feel free to explore my code and reach out if you have any questions!
@@ -54,11 +54,12 @@ This repository showcases my work on various data analysis projects. Feel free t
 - **Other Tools**: 
   | Jupyter Notebook | VS Code | Azure Data Studio | 
   | ---- | ---- | ---- | 
-  | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width=55 height=55 /> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" width=55 height=55 /> | <img src=images/azure.png title="Azure Data Studio" width=75 height=55 /> | 
-
+  | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width=55 height=55 /> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" width=55 height=55 /> | <img src=images/azure.png title="Azure Data Studio" width=75 height=55 /> |
+  
 ---
 
-**EICT | IIT Guwahati Certified Data Analyst! 😏**
+
+**EICT | IIT Guwahati Certified DATA SCIENTIST 😏**
 
 
 <img src=images/certificate.jpg title="IIT Guwahati Certificate" width=500 />
